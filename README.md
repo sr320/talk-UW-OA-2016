@@ -25,3 +25,10 @@ October 26th, 4:00-5:00pm
 
 - [Data Management Plan for Sequence Data](https://github.com/sr320/LabDocs/blob/master/DMPseq.md)
 
+
+
+---
+
+
+
+![animated-gif](show.gif)
