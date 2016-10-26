@@ -2,6 +2,10 @@
 
 
 
+## Have a Question?
+
+[Ask me anything!](https://github.com/sr320/talk-UW-OA-2016/issues)
+
 
 ##Links
 
