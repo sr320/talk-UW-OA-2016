@@ -1,4 +1,4 @@
-## Repository that includes a slidedeck that was presented at ["Hacking the Academy: Open in Action"](http://www.lib.washington.edu/digitalscholarship/hacking-the-academy-programming-series) as opart of [Open Access Week](http://www.openaccessweek.org/)
+## Repository that includes a [slidedeck](https://github.com/sr320/talk-UW-OA-2016/blob/master/2016-UW-OAweek.pdf) that was presented at ["Hacking the Academy: Open in Action"](http://www.lib.washington.edu/digitalscholarship/hacking-the-academy-programming-series) as part of [Open Access Week](http://www.openaccessweek.org/)
 UW Seattle Allen Library Research Commons, Green A          
 October 26th, 4:00-5:00pm
 
